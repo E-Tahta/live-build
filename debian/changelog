@@ -1,9 +1,12 @@
-live-build (1:20170213pardus1) pardus; urgency=medium
+live-build (1:20170213pardus1) stable; urgency=medium
 
+  [ Gökhan Karabulut ]
   * Sync with Debian. Remaining changes:
     - Add .drone.yml
 
- -- Gökhan Karabulut <gokhanettin@gmail.com>  Mon, 20 Feb 2017 19:04:31 +0300
+  [ Yunusemre Şentürk ]
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 16 May 2018 14:56:04 +0300
 
 live-build (1:20170213) unstable; urgency=medium
 
